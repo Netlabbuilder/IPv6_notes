@@ -1,5 +1,7 @@
 # IPv6_notes
-
+### IPv6 Address Space
+- [IANA IPv6 Address Space](https://www.iana.org/assignments/ipv6-address-space)
+- [IANA IPv6 Global Unicast Address Space](https://www.iana.org/assignments/ipv6-unicast-address-assignments)
 ### IPv6 address ###
 
 - Length: 128 bits - eight blocks of four hexadecimal digits, seperated by colons ':'
