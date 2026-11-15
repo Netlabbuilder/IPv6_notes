@@ -1,5 +1,4 @@
 # IPv6_notes
-My notes on IPv6
 
 ### IPv6 address ###
 
