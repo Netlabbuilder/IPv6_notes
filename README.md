@@ -2,9 +2,12 @@
 ## IPv6 Address Space
 - [IANA IPv6 Address Space](https://www.iana.org/assignments/ipv6-address-space)
 - [IANA IPv6 Global Unicast Address Space](https://www.iana.org/assignments/ipv6-unicast-address-assignments)
+- [IANA IPv6 Special-Purpose Address Space](https://www.iana.org/assignments/iana-ipv6-special-registry)
+  - [RFC 3849](https://www.rfc-editor.org/info/rfc3849/) - `Documentation` - `2001:db8::/32`
+  - [RFC 9637](https://www.rfc-editor.org/info/rfc9637/) - `Documentation` - `3fff::/20`
 ## IPv6 Addressing Architecture
-### [RFC 4291: IPv6 Addressing Architecture - February 2006](https://www.rfc-editor.org/info/rfc4291/)
-### [RFC 5952: A Recommendation for IPv6 Address Text Representation - August 2010](https://www.rfc-editor.org/info/rfc5952/)
+- [RFC 4291: IPv6 Addressing Architecture - February 2006](https://www.rfc-editor.org/info/rfc4291/)
+- [RFC 5952: A Recommendation for IPv6 Address Text Representation - August 2010](https://www.rfc-editor.org/info/rfc5952/)
 ### IPv6 Address ###
 
 - Length: 128 bits - eight blocks of four hexadecimal digits, seperated by colons `:`
