@@ -17,3 +17,9 @@
   ![An example of an IPv6 address](images/IPv6%20address%20length.svg)
 
 - Total number of IPv6 addresses: `2^128` (or `2**128`) = `340,282,366,920,938,463,463,374,607,431,768,211,456`
+### IPv6 Notation ###
+### IPv6 Subnetting ###
+128-bit IPv6 Addressing is generally split into two parts:
+- The left 64-bit part is the `network prefix`, which is used to identify a network and subnet inside that network.
+- The right 64-bit part is the `interface identifier`, or `interface ID`, or `IID`, which is used to identify host's network interface.
+
