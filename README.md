@@ -5,6 +5,7 @@
 - [IANA IPv6 Special-Purpose Address Space](https://www.iana.org/assignments/iana-ipv6-special-registry)
   - [RFC 3849](https://www.rfc-editor.org/info/rfc3849/) - `Documentation` - `2001:db8::/32`
   - [RFC 9637](https://www.rfc-editor.org/info/rfc9637/) - `Documentation` - `3fff::/20`
+- [IPv6 Multicast Address Scopes](https://www.rfc-editor.org/info/rfc7346/)
 ## IPv6 Addressing Architecture
 - [RFC 4291: IPv6 Addressing Architecture - February 2006](https://www.rfc-editor.org/info/rfc4291/)
 - [RFC 5952: A Recommendation for IPv6 Address Text Representation - August 2010](https://www.rfc-editor.org/info/rfc5952/)
