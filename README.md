@@ -22,4 +22,13 @@
 128-bit IPv6 Addressing is generally split into two parts:
 - The left 64-bit part is the `network prefix`, which is used to identify a network and subnet inside that network.
 - The right 64-bit part is the `interface identifier`, or `interface ID`, or `IID`, which is used to identify host's network interface.
+### IPv6 Address Types and Scopes ###
+| Addresses      | Description | Range | Scope |
+| ----------- | ----------- | ----------- | ----------- |
+|Link-Local| ... | fe80::/10 | Link |
+|Global Unicast| ... | 2000::/3 | Global |
+|Unique Local (ULA)| ... | fc00::/7 | Global |
+|Multicast| ... | ff00::/8 | Variable |
+
+
 
