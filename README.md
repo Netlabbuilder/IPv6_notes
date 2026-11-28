@@ -33,5 +33,5 @@
 
 ### IPv6 Multicast Addresses ###
 - In IPv6, there are no broadcast addresses.
-- IN Ipv6, there are only multicast, unicast and anycast addresses.
+- In Ipv6, there are only multicast, unicast and anycast addresses.
 
