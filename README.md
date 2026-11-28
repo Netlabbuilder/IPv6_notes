@@ -31,5 +31,7 @@
 |Unique Local (ULA)| ... | fc00::/7 | Global |
 |Multicast| ... | ff00::/8 | Variable |
 
-
+### IPv6 Multicast Addresses ###
+- In IPv6, there are no broadcast addresses.
+- IN Ipv6, there are only multicast, unicast and anycast addresses.
 
